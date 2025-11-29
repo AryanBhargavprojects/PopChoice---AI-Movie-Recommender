@@ -1,7 +1,7 @@
 
 
 .OMDB-API.MD
-.spec-prompt.md
+spec_prompt.md
 .env
 node_modules
 .DS_Store
